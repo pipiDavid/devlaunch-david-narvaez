@@ -1,1 +1,8 @@
-What is Bitcoin?
+What is Bitcoin? 
+
+Bitcoin is a decentralized digital currency that operates without a central authority or intermediary
+such as a bank. It was introduced in 2008 by an unknown person or group of people using the pseudonym
+Satoshi Nakamoto.
+ Bitcoin transactions are recorded on a public ledger known as the blockchain, which is maintained by
+a network of computers
+(nodes) around the world.

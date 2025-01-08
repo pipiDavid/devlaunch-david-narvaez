@@ -6,3 +6,18 @@ Satoshi Nakamoto.
  Bitcoin transactions are recorded on a public ledger known as the blockchain, which is maintained by
 a network of computers
 (nodes) around the world.
+
+Bitcoin's technology is based on the blockchain, a decentralized and distributed ledger that records
+all transactions
+in cryptographically linked blocks. It uses public-key cryptography to secure transactions,
+with private keys allowing users to sign transactions and prove ownership of their bitcoins.
+The network achieves consensus through a Proof of Work mechanism, where miners solve complex mathematical
+problems to validate transactions and add new blocks to the chain. This decentralized network of nodes
+ensures security, transparency, and resistance to tampering, while the issuance of new bitcoins is controlled
+by "halving" events that limit the total supply to 21 million.
+
+
+
+
+
+

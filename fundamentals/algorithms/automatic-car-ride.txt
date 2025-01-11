@@ -1,0 +1,20 @@
+Como conducir un carro autimatico
+
+ Tomo las llaves del carro
+ Me dirijo a el carro. 
+ Procedo a abrir el carro.
+
+ ¿El carro esta abierto? 
+ Si esta cerrado, uso la llave para desbloquear la puerta.
+ Si esta abierto, abro la puerta
+ 
+ Ingreso a el carro y me coloco el cinturon. 
+ Presiono el freno.
+ Inserto la llave.
+ Tomo el volante.
+ Arranco el carro.
+ cambio la marcha a D.
+ Quito el freno de mano.
+ Presiono el gas.
+
+Finalmente manejo mi carro.

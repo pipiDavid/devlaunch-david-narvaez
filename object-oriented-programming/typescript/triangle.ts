@@ -1,16 +1,25 @@
-const triangle = {
-    ladeA: 7,
-    ladeB: 10,
-    ladeC: 5,
+interface Triangle {
+    ladeA: number,
+    ladeB: number,
+    ladeC: number,
 }
 
-const isValidTriangle = (triangle) => {
+const t1: Triangle = {
+   
+    ladeA: 2,
+    ladeB: 3,
+    ladeC: 6
 
-    const {ladeA, ladeB, ladeC} = triangle
+}
+
+
+
+
+ const isValidTriangle = ({ladeA, ladeB, ladeC}: Triangle) => {
 
      return ((ladeB + ladeC) > ladeA && (ladeA + ladeC ) > ladeC && (ladeA + ladeA) > ladeC ) 
 
      
 }
 
-console.log(isValidTriangle(triangle))
+console.log(isValidTriangle(t1))

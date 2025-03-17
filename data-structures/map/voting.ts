@@ -25,8 +25,13 @@ const voting = (votes: Vote[]) => {
       maxVote = count
       winner = candidate
     }
-   } 
   }
+  return {
+    candidate: winner,
+    votes: maxVote
+  } 
+}
+
 
 
 
@@ -42,4 +47,4 @@ const votes: Vote[] = [
 
 ]
 
-console.log(votes)
+console.log(voting(votes))
